@@ -1,0 +1,21 @@
+
+
+services:
+
+  server_test:
+    build:
+      context: ./server_test/
+    environment:
+      URI_SERVER: http://server:8000
+    links:
+        - server
+
+  client_test:
+    links:
+        - server
+        - client
+    environment:
+      #- DISPLAY
+      - CYPRESS_BASE_URL=http://client:8001/?api=http://server:8000
+    #user: ${USER}  # ummm, problems with user on cypress startup
+

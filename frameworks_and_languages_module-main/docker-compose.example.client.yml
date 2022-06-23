@@ -1,0 +1,8 @@
+
+
+services:
+
+  client:
+    image: client_example
+    build:
+      context: ./client_example/
