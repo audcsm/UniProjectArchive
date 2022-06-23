@@ -1,0 +1,215 @@
+body {
+    overflow-x: hidden;
+}
+
+main {
+    margin-top: 90px;
+}
+.container {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+* select, * input {
+    height: 40px;
+    min-width: 150px;
+    border: none;
+}
+textarea {
+    border: none;
+}
+label {
+    padding-top: 5px;
+}
+
+
+/* BANNER */
+#banner-img {
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.over-banner {
+    z-index: 2;
+    position: relative;
+}
+.banner-overlay_navy {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+
+
+/* FEATURE */
+#feature-text {
+    padding: 0 100px;
+    display: flex;
+    align-items: center;
+}
+#pointer_left, #pointer_right {
+    height: 150px;
+    position: relative;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+#pointer_left:before {
+    content: "";
+    position: absolute;
+    right: -75px;
+    bottom: 0;
+    width: 0;
+    height: 0;
+}
+#pointer_right:before {
+    content: "";
+    position: absolute;
+    left: -74px;
+    bottom: 0;
+    width: 0;
+    height: 0;
+}
+
+
+/* IMAGES */
+.logo {
+    background-image: url(../images/advhealth.png);
+    background-position: center;
+    background-size: contain;
+    height: 90px;
+    width: 235px;
+    padding: 0;
+    margin: 0;
+    justify-self: flex-start;
+    transition: 0.15s linear;
+    cursor: pointer; 
+}
+.bio-img {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.bio-img img {
+    max-width: 250px;
+    height: auto;
+}
+
+
+/* PAGINATION */
+.pagination {
+    margin: 40px 0;
+    justify-content: center;
+}
+.page-item {
+    border: none;
+}
+.page-item a {
+    border: none;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 10px !important;
+    border-bottom-left-radius: 10px !important;
+    border-bottom-right-radius: 0 !important;
+    margin: 0 10px;
+}
+.page-item a i {
+    transition: margin 0.15s ease-in-out;
+}
+.page-item a:hover i {
+    margin-left: 3px;
+    margin-right: -3px;
+    transition: margin 0.15s ease-in-out;
+}
+.page-item a.prev:hover i {
+    margin-left: -3px;
+    margin-right: 3px;
+}
+
+
+/* BUTTONS */
+.btn {
+    border-top-left-radius: 0;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 0;
+    padding: 0.5rem 1.5rem;
+    border: none;
+    margin: 10px 0;
+}
+.btn i {
+    transition: right 0.15s ease-in-out;
+    right: 0;
+    position: relative;
+}
+.btn:hover i {
+    transition: right 0.15s ease-in-out;
+    right: -5px;
+    position: relative;
+}
+.btn.large {
+    border-top-left-radius: 0;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+/* CONTACT FORM */
+form.contact label, form.contact input, form.contact select {
+    width: 100%;
+}
+form.contact .row {
+    margin-bottom: 50px;
+}
+form.contact .hidden {
+    display: none !important;
+}
+#message-wrapper {
+    margin-top: 40px;
+}
+#need-help {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+@media (min-width: 992px) {
+    /* CONTACT FORM */
+    .form-wrapper {
+        padding: 0 15rem;
+    }
+}
+
+
+@media (max-width: 991px) {
+    /* FEATURE */
+    #pointer_left {
+        height: 50px;
+        margin-bottom: 15px;
+    }
+    #pointer_right {
+        height: 50px;
+        margin-left: auto;
+    }
+    #pointer_left:before {
+        right: -25px;
+    }
+    #pointer_right:before {
+        left: -25px;
+    }
+    
+    /* BUTTONS */
+    .btn {
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 767px) {
+    /* FEATURE */
+    #feature-text {
+        padding: 0 25px;
+    }
+}
