@@ -103,11 +103,11 @@ Since the Pi will often be idle, it makes sense for the CPUs governors to be in 
 Then, when something important (such as taking a picture) takes place, it will be more beneficial for the CPU to be in 'performance' mode.
 The scripts to do this are:
 
-[performance_cpu.sh](https://github.com/cccu-uk/AOS_2021_-binary_beasts/blob/main/performance_cpu.sh)
+[performance_cpu.sh](https://github.com/audcsm/UniProjectArchive/blob/main/AOS_2021_-binary_beasts/scripts/performance/performance_cpu.sh)
 
 and 
 
-[powersave_cpu.sh](https://github.com/cccu-uk/AOS_2021_-binary_beasts/blob/main/powersave_cpu.sh)
+[powersave_cpu.sh](https://github.com/audcsm/UniProjectArchive/blob/main/AOS_2021_-binary_beasts/scripts/performance/powersave_cpu.sh)
 
 These scripts are not intended to be manually run, they are to be called by others such as the camera.
 
@@ -130,11 +130,11 @@ for the powersaving mode
 
 ## Logging
 
-The log file can be found at [~/AOS_2021_-binary_beasts/log/logfile.log](https://github.com/cccu-uk/AOS_2021_-binary_beasts/blob/main/log/logfile.log)
+The log file can be found at [~/AOS_2021_-binary_beasts/log/logfile.log](https://github.com/audcsm/UniProjectArchive/blob/main/AOS_2021_-binary_beasts/log/logfile.log)
 
 ### Status Logger
 
-All scripts execute [statuslogger.sh](https://github.com/cccu-uk/AOS_2021_-binary_beasts/blob/main/statuslogger.sh) with some arguments to write to the log file.  
+All scripts execute [statuslogger.sh](https://github.com/audcsm/UniProjectArchive/blob/main/AOS_2021_-binary_beasts/scripts/logging/statuslogger.sh) with some arguments to write to the log file.  
 
 Though this shell script is most often called automatically by another, syntax and error messages are provided for the rare case that a user would like to write a log message from the shell. In this case, using `--help` will give a list of syntax and the filename can be replaced with "shell". 
 
@@ -147,13 +147,13 @@ Option definitions:
 * -w WARNING: undesirable occurrences but not errors
 * -e ERROR: runtime errors that should be monitored
 * -c CRITICAL: errors that require immediate action
-* -I IP: recording of the current IP address. See [iplogger.sh](https://github.com/cccu-uk/AOS_2021_-binary_beasts/blob/main/iplogger.sh)
+* -I IP: recording of the current IP address. See [iplogger.sh](https://github.com/audcsm/UniProjectArchive/blob/main/AOS_2021_-binary_beasts/scripts/logging/iplogger.sh)
 * -t TEST: testing in any regard, manual or automatic   
 * -C CUSTOM: custom log. Any amount of args, does not have to follow syntax
 
 ### System Logger
 
-Every 4 hours [systemlogger.sh](https://github.com/cccu-uk/AOS_2021_-binary_beasts/blob/main/statuslogger.sh) is executed automatically via crontab. This duration was selected to allow for frequent checks of the system statistics without overloading the log. It also lines up with the automatic IP logging, which also occurs every 4 hours.  
+Every 4 hours [systemlogger.sh](https://github.com/audcsm/UniProjectArchive/blob/main/AOS_2021_-binary_beasts/scripts/logging/systemlogger.sh) is executed automatically via crontab. This duration was selected to allow for frequent checks of the system statistics without overloading the log. It also lines up with the automatic IP logging, which also occurs every 4 hours.  
 
 To run manually, no arguments are needed, just `bash path/to/script/systemlogger.sh`.  
 
@@ -207,7 +207,7 @@ This will annotate the pictures with the time they were taken.
 
 The regularity at which pictures are taken can be altered to the user's choice by editing when the script runs in the crontab.
 
-[camera_script.py](https://github.com/cccu-uk/AOS_2021_-binary_beasts/blob/main/camera_script.py)
+[camera_script.py](https://github.com/audcsm/UniProjectArchive/blob/main/AOS_2021_-binary_beasts/camera_script.py)
 
 The file type that the images are saved as can be changed, but by default it is set to .png.  
 PNG was chosen as it has a good ratio of resolution to image size, whereas JPEG would be too blurry/low res, and TIFF would take up too much space.
