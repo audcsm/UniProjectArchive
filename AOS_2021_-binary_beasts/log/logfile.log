@@ -1,0 +1,441 @@
+[2022/03/19T04:40:01Z NOTICE] logrotation.sh: Log rotation successful
+[2022/03/19T05:01:09Z INFO] camera_script.py: Image taken
+[2022/03/19T05:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T05:31:10Z INFO] camera_script.py: Image taken
+[2022/03/19T05:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T06:01:09Z INFO] camera_script.py: Image taken
+[2022/03/19T06:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T06:31:09Z INFO] camera_script.py: Image taken
+[2022/03/19T06:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T07:01:09Z INFO] camera_script.py: Image taken
+[2022/03/19T07:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T07:31:10Z INFO] camera_script.py: Image taken
+[2022/03/19T07:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T08:00:12Z NOTICE] autogit.sh: Automatic daily git update of local and remote branches
+[2022/03/19T08:01:09Z INFO] camera_script.py: Image taken
+[2022/03/19T08:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T08:31:09Z INFO] camera_script.py: Image taken
+[2022/03/19T08:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T09:01:09Z INFO] camera_script.py: Image taken
+[2022/03/19T09:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T09:31:10Z INFO] camera_script.py: Image taken
+[2022/03/19T09:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T10:01:10Z INFO] camera_script.py: Image taken
+[2022/03/19T10:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T10:31:10Z INFO] camera_script.py: Image taken
+[2022/03/19T10:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T11:01:10Z INFO] camera_script.py: Image taken
+[2022/03/19T11:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T11:31:10Z INFO] camera_script.py: Image taken
+[2022/03/19T11:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T12:01:09Z INFO] camera_script.py: Image taken
+[2022/03/19T12:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T12:31:10Z INFO] camera_script.py: Image taken
+[2022/03/19T12:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T13:01:09Z INFO] camera_script.py: Image taken
+[2022/03/19T13:01:27Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T13:31:10Z INFO] camera_script.py: Image taken
+[2022/03/19T13:31:27Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T14:01:10Z INFO] camera_script.py: Image taken
+[2022/03/19T14:01:28Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T14:31:10Z INFO] camera_script.py: Image taken
+[2022/03/19T14:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T15:01:10Z INFO] camera_script.py: Image taken
+[2022/03/19T15:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T15:31:09Z INFO] camera_script.py: Image taken
+[2022/03/19T15:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T16:00:10Z NOTICE] autogit.sh: Automatic daily git update of local and remote branches
+[2022/03/19T16:01:10Z INFO] camera_script.py: Image taken
+[2022/03/19T16:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T16:31:10Z INFO] camera_script.py: Image taken
+[2022/03/19T16:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T17:01:09Z INFO] camera_script.py: Image taken
+[2022/03/19T17:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T17:31:09Z INFO] camera_script.py: Image taken
+[2022/03/19T17:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T18:01:10Z INFO] camera_script.py: Image taken
+[2022/03/19T18:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T18:31:09Z INFO] camera_script.py: Image taken
+[2022/03/19T18:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T19:01:10Z INFO] camera_script.py: Image taken
+[2022/03/19T19:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T19:31:10Z INFO] camera_script.py: Image taken
+[2022/03/19T19:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T20:01:09Z INFO] camera_script.py: Image taken
+[2022/03/19T20:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T20:31:10Z INFO] camera_script.py: Image taken
+[2022/03/19T20:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T21:01:10Z INFO] camera_script.py: Image taken
+[2022/03/19T21:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T21:31:09Z INFO] camera_script.py: Image taken
+[2022/03/19T21:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T22:01:10Z INFO] camera_script.py: Image taken
+[2022/03/19T22:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T22:31:10Z INFO] camera_script.py: Image taken
+[2022/03/19T22:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T23:01:09Z INFO] camera_script.py: Image taken
+[2022/03/19T23:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/19T23:31:10Z INFO] camera_script.py: Image taken
+[2022/03/19T23:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T00:00:21Z NOTICE] autogit.sh: Automatic daily git update of local and remote branches
+[2022/03/20T00:01:10Z INFO] camera_script.py: Image taken
+[2022/03/20T00:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T00:31:10Z INFO] camera_script.py: Image taken
+[2022/03/20T00:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T01:01:09Z INFO] camera_script.py: Image taken
+[2022/03/20T01:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T01:31:09Z INFO] camera_script.py: Image taken
+[2022/03/20T01:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T02:01:10Z INFO] camera_script.py: Image taken
+[2022/03/20T02:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T02:31:10Z INFO] camera_script.py: Image taken
+[2022/03/20T02:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T03:01:10Z INFO] camera_script.py: Image taken
+[2022/03/20T03:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T03:31:10Z INFO] camera_script.py: Image taken
+[2022/03/20T03:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T04:01:10Z INFO] camera_script.py: Image taken
+[2022/03/20T04:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T04:31:09Z INFO] camera_script.py: Image taken
+[2022/03/20T04:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T05:01:09Z INFO] camera_script.py: Image taken
+[2022/03/20T05:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T05:31:10Z INFO] camera_script.py: Image taken
+[2022/03/20T05:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T06:01:10Z INFO] camera_script.py: Image taken
+[2022/03/20T06:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T06:31:10Z INFO] camera_script.py: Image taken
+[2022/03/20T06:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T07:01:09Z INFO] camera_script.py: Image taken
+[2022/03/20T07:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T07:31:09Z INFO] camera_script.py: Image taken
+[2022/03/20T07:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T08:00:17Z NOTICE] autogit.sh: Automatic daily git update of local and remote branches
+[2022/03/20T08:01:10Z INFO] camera_script.py: Image taken
+[2022/03/20T08:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T08:31:10Z INFO] camera_script.py: Image taken
+[2022/03/20T08:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T09:01:10Z INFO] camera_script.py: Image taken
+[2022/03/20T09:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T09:31:10Z INFO] camera_script.py: Image taken
+[2022/03/20T09:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T10:01:10Z INFO] camera_script.py: Image taken
+[2022/03/20T10:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T10:31:10Z INFO] camera_script.py: Image taken
+[2022/03/20T10:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T11:01:10Z INFO] camera_script.py: Image taken
+[2022/03/20T11:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T11:31:10Z INFO] camera_script.py: Image taken
+[2022/03/20T11:31:13Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T12:01:10Z INFO] camera_script.py: Image taken
+[2022/03/20T12:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T12:31:09Z INFO] camera_script.py: Image taken
+[2022/03/20T12:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T13:01:10Z INFO] camera_script.py: Image taken
+[2022/03/20T13:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T13:31:10Z INFO] camera_script.py: Image taken
+[2022/03/20T13:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T14:01:10Z INFO] camera_script.py: Image taken
+[2022/03/20T14:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T14:31:10Z INFO] camera_script.py: Image taken
+[2022/03/20T14:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T15:01:10Z INFO] camera_script.py: Image taken
+[2022/03/20T15:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T15:31:10Z INFO] camera_script.py: Image taken
+[2022/03/20T15:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T16:00:11Z NOTICE] autogit.sh: Automatic daily git update of local and remote branches
+[2022/03/20T16:01:09Z INFO] camera_script.py: Image taken
+[2022/03/20T16:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T16:31:09Z INFO] camera_script.py: Image taken
+[2022/03/20T16:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T17:01:09Z INFO] camera_script.py: Image taken
+[2022/03/20T17:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T17:31:09Z INFO] camera_script.py: Image taken
+[2022/03/20T17:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T18:01:09Z INFO] camera_script.py: Image taken
+[2022/03/20T18:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T18:31:10Z INFO] camera_script.py: Image taken
+[2022/03/20T18:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T19:01:10Z INFO] camera_script.py: Image taken
+[2022/03/20T19:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T19:31:09Z INFO] camera_script.py: Image taken
+[2022/03/20T19:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T20:01:10Z INFO] camera_script.py: Image taken
+[2022/03/20T20:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T20:31:10Z INFO] camera_script.py: Image taken
+[2022/03/20T20:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T21:01:09Z INFO] camera_script.py: Image taken
+[2022/03/20T21:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T21:31:10Z INFO] camera_script.py: Image taken
+[2022/03/20T21:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T22:01:10Z INFO] camera_script.py: Image taken
+[2022/03/20T22:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T22:31:09Z INFO] camera_script.py: Image taken
+[2022/03/20T22:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T23:01:10Z INFO] camera_script.py: Image taken
+[2022/03/20T23:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/20T23:31:10Z INFO] camera_script.py: Image taken
+[2022/03/20T23:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T00:00:10Z NOTICE] autogit.sh: Automatic daily git update of local and remote branches
+[2022/03/21T00:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T00:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T00:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T00:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T01:01:09Z INFO] camera_script.py: Image taken
+[2022/03/21T01:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T01:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T01:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T02:01:09Z INFO] camera_script.py: Image taken
+[2022/03/21T02:01:13Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T02:31:09Z INFO] camera_script.py: Image taken
+[2022/03/21T02:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T03:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T03:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T03:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T03:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T04:01:09Z INFO] camera_script.py: Image taken
+[2022/03/21T04:01:26Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T04:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T04:31:27Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T05:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T05:01:13Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T05:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T05:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T06:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T06:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T06:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T06:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T07:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T07:01:28Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T07:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T07:31:27Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T08:00:10Z NOTICE] autogit.sh: Automatic daily git update of local and remote branches
+[2022/03/21T08:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T08:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T08:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T08:31:28Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T09:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T09:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T09:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T09:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T10:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T10:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T10:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T10:31:28Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T11:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T11:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T11:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T11:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T12:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T12:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T12:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T12:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T13:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T13:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T13:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T13:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T14:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T14:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T14:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T14:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T15:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T15:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T15:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T15:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T16:00:23Z NOTICE] autogit.sh: Automatic daily git update of local and remote branches
+[2022/03/21T16:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T16:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T16:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T16:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T17:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T17:01:28Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T17:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T17:31:27Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T18:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T18:01:28Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T18:31:08Z INFO] camera_script.py: Image taken
+[2022/03/21T18:31:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T19:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T19:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T19:31:09Z INFO] camera_script.py: Image taken
+[2022/03/21T19:31:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T20:01:08Z INFO] camera_script.py: Image taken
+[2022/03/21T20:01:25Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T20:31:10Z INFO] camera_script.py: Image taken
+[2022/03/21T20:31:28Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T21:01:10Z INFO] camera_script.py: Image taken
+[2022/03/21T21:01:28Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T21:31:08Z INFO] camera_script.py: Image taken
+[2022/03/21T21:31:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T22:01:09Z INFO] camera_script.py: Image taken
+[2022/03/21T22:01:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T22:31:09Z INFO] camera_script.py: Image taken
+[2022/03/21T22:31:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T23:01:08Z INFO] camera_script.py: Image taken
+[2022/03/21T23:01:09Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/21T23:31:08Z INFO] camera_script.py: Image taken
+[2022/03/21T23:31:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T00:00:10Z NOTICE] autogit.sh: Automatic daily git update of local and remote branches
+[2022/03/22T00:01:08Z INFO] camera_script.py: Image taken
+[2022/03/22T00:01:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T00:31:08Z INFO] camera_script.py: Image taken
+[2022/03/22T00:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T01:01:09Z INFO] camera_script.py: Image taken
+[2022/03/22T01:01:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T01:31:08Z INFO] camera_script.py: Image taken
+[2022/03/22T01:31:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T02:01:08Z INFO] camera_script.py: Image taken
+[2022/03/22T02:01:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T02:31:09Z INFO] camera_script.py: Image taken
+[2022/03/22T02:31:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T03:01:09Z INFO] camera_script.py: Image taken
+[2022/03/22T03:01:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T03:31:09Z INFO] camera_script.py: Image taken
+[2022/03/22T03:31:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T04:01:08Z INFO] camera_script.py: Image taken
+[2022/03/22T04:01:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T04:31:08Z INFO] camera_script.py: Image taken
+[2022/03/22T04:31:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T05:01:09Z INFO] camera_script.py: Image taken
+[2022/03/22T05:01:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T05:31:09Z INFO] camera_script.py: Image taken
+[2022/03/22T05:31:26Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T06:01:10Z INFO] camera_script.py: Image taken
+[2022/03/22T06:01:28Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T06:31:10Z INFO] camera_script.py: Image taken
+[2022/03/22T06:31:27Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T07:01:10Z INFO] camera_script.py: Image taken
+[2022/03/22T07:01:27Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T07:31:11Z INFO] camera_script.py: Image taken
+[2022/03/22T07:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T08:00:09Z NOTICE] autogit.sh: Automatic daily git update of local and remote branches
+[2022/03/22T08:01:10Z INFO] camera_script.py: Image taken
+[2022/03/22T08:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T08:31:10Z INFO] camera_script.py: Image taken
+[2022/03/22T08:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T09:01:10Z INFO] camera_script.py: Image taken
+[2022/03/22T09:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T09:31:10Z INFO] camera_script.py: Image taken
+[2022/03/22T09:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T10:01:10Z INFO] camera_script.py: Image taken
+[2022/03/22T10:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T10:31:10Z INFO] camera_script.py: Image taken
+[2022/03/22T10:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T11:01:10Z INFO] camera_script.py: Image taken
+[2022/03/22T11:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T11:31:10Z INFO] camera_script.py: Image taken
+[2022/03/22T11:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T12:01:10Z INFO] camera_script.py: Image taken
+[2022/03/22T12:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T12:31:10Z INFO] camera_script.py: Image taken
+[2022/03/22T12:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T13:01:10Z INFO] camera_script.py: Image taken
+[2022/03/22T13:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T13:31:10Z INFO] camera_script.py: Image taken
+[2022/03/22T13:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T14:01:10Z INFO] camera_script.py: Image taken
+[2022/03/22T14:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T14:31:10Z INFO] camera_script.py: Image taken
+[2022/03/22T14:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T15:01:10Z INFO] camera_script.py: Image taken
+[2022/03/22T15:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T15:31:10Z INFO] camera_script.py: Image taken
+[2022/03/22T15:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T16:00:21Z NOTICE] autogit.sh: Automatic daily git update of local and remote branches
+[2022/03/22T16:01:10Z INFO] camera_script.py: Image taken
+[2022/03/22T16:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T16:31:10Z INFO] camera_script.py: Image taken
+[2022/03/22T16:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T17:01:10Z INFO] camera_script.py: Image taken
+[2022/03/22T17:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T17:31:10Z INFO] camera_script.py: Image taken
+[2022/03/22T17:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T18:01:10Z INFO] camera_script.py: Image taken
+[2022/03/22T18:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T18:31:09Z INFO] camera_script.py: Image taken
+[2022/03/22T18:31:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T19:01:09Z INFO] camera_script.py: Image taken
+[2022/03/22T19:01:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T19:31:09Z INFO] camera_script.py: Image taken
+[2022/03/22T19:31:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T20:01:08Z INFO] camera_script.py: Image taken
+[2022/03/22T20:01:09Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T20:31:09Z INFO] camera_script.py: Image taken
+[2022/03/22T20:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T21:01:10Z INFO] camera_script.py: Image taken
+[2022/03/22T21:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T21:31:10Z INFO] camera_script.py: Image taken
+[2022/03/22T21:31:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T22:01:08Z INFO] camera_script.py: Image taken
+[2022/03/22T22:01:09Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T22:31:08Z INFO] camera_script.py: Image taken
+[2022/03/22T22:31:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T23:01:08Z INFO] camera_script.py: Image taken
+[2022/03/22T23:01:09Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/22T23:31:08Z INFO] camera_script.py: Image taken
+[2022/03/22T23:31:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T00:00:10Z NOTICE] autogit.sh: Automatic daily git update of local and remote branches
+[2022/03/23T00:01:08Z INFO] camera_script.py: Image taken
+[2022/03/23T00:01:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T00:31:08Z INFO] camera_script.py: Image taken
+[2022/03/23T00:31:09Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T01:01:09Z INFO] camera_script.py: Image taken
+[2022/03/23T01:01:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T01:31:08Z INFO] camera_script.py: Image taken
+[2022/03/23T01:31:09Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T02:01:08Z INFO] camera_script.py: Image taken
+[2022/03/23T02:01:09Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T02:31:08Z INFO] camera_script.py: Image taken
+[2022/03/23T02:31:09Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T03:01:08Z INFO] camera_script.py: Image taken
+[2022/03/23T03:01:09Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T03:31:08Z INFO] camera_script.py: Image taken
+[2022/03/23T03:31:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T04:01:08Z INFO] camera_script.py: Image taken
+[2022/03/23T04:01:09Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T04:31:08Z INFO] camera_script.py: Image taken
+[2022/03/23T04:31:09Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T05:01:08Z INFO] camera_script.py: Image taken
+[2022/03/23T05:01:10Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T05:31:08Z INFO] camera_script.py: Image taken
+[2022/03/23T05:31:09Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T06:01:09Z INFO] camera_script.py: Image taken
+[2022/03/23T06:01:11Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T06:31:10Z INFO] camera_script.py: Image taken
+[2022/03/23T06:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T07:01:10Z INFO] camera_script.py: Image taken
+[2022/03/23T07:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T07:31:10Z INFO] camera_script.py: Image taken
+[2022/03/23T07:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T08:00:15Z NOTICE] autogit.sh: Automatic daily git update of local and remote branches
+[2022/03/23T08:01:10Z INFO] camera_script.py: Image taken
+[2022/03/23T08:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T08:31:10Z INFO] camera_script.py: Image taken
+[2022/03/23T08:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T09:01:10Z INFO] camera_script.py: Image taken
+[2022/03/23T09:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T09:31:10Z INFO] camera_script.py: Image taken
+[2022/03/23T09:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T10:01:10Z INFO] camera_script.py: Image taken
+[2022/03/23T10:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T10:31:10Z INFO] camera_script.py: Image taken
+[2022/03/23T10:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T11:01:10Z INFO] camera_script.py: Image taken
+[2022/03/23T11:01:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T11:02:08Z NOTICE] autogit.sh: Automatic daily git update of local and remote branches
+[2022/03/23T11:25:55Z IP] iplogger.sh: 10.150.200.155
+[2022/03/23T11:28:35Z INFO] systemlogger.sh: Total Disk Space: 20G | Available: 13G | Used: 6.7G
+[2022/03/23T11:28:35Z INFO] systemlogger.sh: CPU Available: 99.79% | Used: 0.21%
+[2022/03/23T11:28:35Z INFO] systemlogger.sh: Last User Login: 10.150.200.214 on Wed 23 Mar 2022 at 11:01:47
+[2022/03/23T11:31:06Z INFO] deletescript.sh: Cleared temporary image storage
+[2022/03/23T11:31:10Z INFO] camera_script.py: Image taken
+[2022/03/23T11:31:12Z INFO] camera_script.py: Image sent to remote pi
+[2022/03/23T11:37:27Z IP] iplogger.sh: 10.150.200.155
+[2022/03/23T11:39:19Z IP] iplogger.sh: 10.150.200.155
+[2022/03/23T11:47:10Z NOTICE] autogit.sh: Automatic daily git update of local and remote branches
+[2022/03/23T12:00:01Z IP] iplogger.sh: 10.150.200.155
+[2022/03/23T12:05:01Z INFO] systemlogger.sh: Total Disk Space: 20G | Available: 13G | Used: 6.7G
+[2022/03/23T12:05:01Z INFO] systemlogger.sh: CPU Available: 99.79% | Used: 0.21%
+[2022/03/23T12:05:01Z INFO] systemlogger.sh: Last User Login: 10.150.200.214 on Wed 23 Mar 2022 at 11:01:47
+[2022/03/23T12:26:47Z NOTICE] autogit.sh: Automatic daily git update of local and remote branches
+[2022/03/23T12:27:32Z CUSTOM] New custom log protocol implemented
